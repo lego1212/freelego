@@ -11,5 +11,9 @@
 </script>
 <script src="https://cpabuild.com/public/external/locker.js"></script>
   
+
+
+<script>CPABuildLock();</script>
+
   </body>
 </html>
